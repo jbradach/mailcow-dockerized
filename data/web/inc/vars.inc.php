@@ -48,10 +48,10 @@ $MAILCOW_APPS = array(
     'name' => 'SOGo',
     'link' => '/SOGo/'
   ),
-  // array(
-    // 'name' => 'Roundcube',
-    // 'link' => '/rc/'
-  // ),
+   array(
+     'name' => 'Roundcube',
+     'link' => '/rc/'
+   ),
 );
 
 // Rows until pagination begins
